@@ -79,4 +79,5 @@ Contributions are welcome!
 Authors:
 
 Bonolo Mashabele
+
 Philipp Amana
